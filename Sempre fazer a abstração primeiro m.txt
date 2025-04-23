@@ -1,0 +1,7 @@
+Sempre fazer a abstração primeiro modelando o que a classe deve ter 
+get serve para pegar algo da variável privada já o set e para a gente criar um método para depois modificalo
+a interface e uma classe que vai obrigar as outras classe a implementar tudo que ela tem 
+protected ele so da acesso a quem e classe filha 
+já a private somente a quem e da classe
+default fica visível somente a quem esta dentro do pacote 
+
